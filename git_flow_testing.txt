@@ -1,3 +1,6 @@
 This is test git flow file.
 Change from master.
 Change from create_textfile.
+
+
+add new text from git_flow_texting
